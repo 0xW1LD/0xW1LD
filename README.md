@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**0xW1LD/0xW1LD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```console
+ ██████╗ ██╗  ██╗██╗    ██╗ ██╗██╗     ██████╗ 
+██╔═████╗╚██╗██╔╝██║    ██║███║██║     ██╔══██╗
+██║██╔██║ ╚███╔╝ ██║ █╗ ██║╚██║██║     ██║  ██║
+████╔╝██║ ██╔██╗ ██║███╗██║ ██║██║     ██║  ██║
+╚██████╔╝██╔╝ ██╗╚███╔███╔╝ ██║███████╗██████╔╝
+ ╚═════╝ ╚═╝  ╚═╝ ╚══╝╚══╝  ╚═╝╚══════╝╚═════╝ 
+                                               
+```
+> Any sufficiently advanced technology is indistinguishable from magic<br>
+<sub>- Arthur C. Clarke</sub>
+</div>
+  
+```console
+$ whoami
+0xW1LD
+$ id
+groups=1000(Discord-@w1ld__),1001(HTB Team-OSI)
+$ cat README.txt
+Hey there! 0xW1LD here,
 
-Here are some ideas to get you started:
+Offensive Security Practitioner.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founding Member of OSI
+Volunteer Moderator for HTB Discord Server
+all around W1ld Card.
+```
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xw1ld&theme=nord&hide_border=true&background=0d1117">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=0xw1ld&theme=nord&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xw1ld&theme=nord&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117">
+</p>
+
+<p align="center">
+  <em>powered by my one braincell</em>
+</p>
