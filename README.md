@@ -29,9 +29,9 @@ all around W1ld Card.
 ```
 
 <p align="center" display="flex" flex-wrap="no-wrap">
-<img width="27.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xw1ld&theme=nord&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117">
-<img width="36.25%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xw1ld&theme=nord&hide_border=true&background=0d1117">
-<img width="36.25%" src="https://github-readme-stats.vercel.app/api?username=0xw1ld&theme=nord&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117">
+<img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xw1ld&theme=nord&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117">
+<img width="36%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xw1ld&theme=nord&hide_border=true&background=0d1117">
+<img width="36%" src="https://github-readme-stats.vercel.app/api?username=0xw1ld&theme=nord&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117">
 </p>
 
 <p align="center">
