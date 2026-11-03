@@ -33,9 +33,12 @@ all around W1ld Card.
 <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xW1LD&theme=nord&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117">
 <img width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xw1ld&theme=nord&hide_border=true&background=0d1117">
 <img width="35%" src="https://github-readme-stats.vercel.app/api?username=0xw1ld&theme=nord&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117">
- -->
+-->
+
+<a href="https://0xw1ld.github.io/">Website</a>
 </p>
 
 <p align="center">
   <em>powered by my one braincell</em>
 </p>
+
